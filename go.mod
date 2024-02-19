@@ -1,9 +1,9 @@
-module github.com/caddy-dns/cloudflare
+module github.com/southpaw-decoy/caddy-cloudflare
 
 go 1.20
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.5
+	github.com/caddyserver/caddy v2.7.5
 	github.com/libdns/cloudflare v0.1.0
 )
 
