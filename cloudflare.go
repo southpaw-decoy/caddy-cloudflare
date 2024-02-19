@@ -15,8 +15,8 @@
 package cloudflare
 
 import (
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/caddyserver/caddy/"
+	"github.com/caddyserver/caddy/tree/master/caddyconfig/caddyfile"
 	"github.com/libdns/cloudflare"
 )
 
